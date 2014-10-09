@@ -1,0 +1,8 @@
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_UI\SFML_UI\bin\Release\SFML_UI.exe
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_UI\SFML_UI\bin\Release\SFML_UI.pdb
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_UI\SFML_UI\bin\Release\sfmlnet-audio-2.dll
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_UI\SFML_UI\bin\Release\sfmlnet-graphics-2.dll
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_UI\SFML_UI\bin\Release\sfmlnet-window-2.dll
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_UI\SFML_UI\obj\x86\Release\SFML_UI.csprojResolveAssemblyReference.cache
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_UI\SFML_UI\obj\x86\Release\SFML_UI.exe
+C:\Users\FallenWyvern\documents\visual studio 2010\Projects\SFML_UI\SFML_UI\obj\x86\Release\SFML_UI.pdb
